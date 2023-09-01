@@ -7,5 +7,4 @@ three aspects of the berries used to make the wine: their sugar content, acidity
 Concentration and levels, that were used as the features were Alcohol, Malic Acid, Ash, Alcalinity, Magnesium, Phenols, Flavanoids,
 Nonflavanoids, Proanthocyanines, Color Intensity, Hue, Proline, and Wine Variety.  
 
-Concentration and levels, that were used as the features were Alcohol, Malic Acid, Ash, Alcalinity, Magnesium, Phenols, Flavanoids, 
-Nonflavanoids, Proanthocyanines, Color Intensity, Hue, Proline, and Wine Variety.  
+In this project, I trained a classification model to analyze the chemical and visual features of wine samples and classified them based on their cultivar (grape variety). 
